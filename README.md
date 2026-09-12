@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Carolus+Bramantyo!+%F0%9F%91%8B;Informatics+Student;Software+%26+Game+Developer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madboksu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <div align="center">
   <table>
     <tr>
@@ -20,7 +16,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://www.fightersgeneration.com/characters4/yu-narukami-a2.html" width="85%" alt="Persona 4 Pixel GIF" />
+        <img src="https://www.fightersgeneration.com/nx3/char/persona4arena/s/yu-walkback.gif" width="85%" alt="Persona 4 Pixel GIF" />
       </td>
     </tr>
   </table>
