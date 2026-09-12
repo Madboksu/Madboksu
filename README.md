@@ -16,7 +16,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://www.fightersgeneration.com/nx3/char/persona4arena/s/yu-walkback.gif" width="85%" alt="Persona 4 Pixel GIF" />
+        <img src="https://media1.tenor.com/m/YhFVicQJ3OoAAAAd/yunarukami-persona4.gif" width="85%" alt="Persona 4 Pixel GIF" />
       </td>
     </tr>
   </table>
