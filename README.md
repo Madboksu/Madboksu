@@ -8,11 +8,11 @@
       <td width="60%">
         <h3>👨‍💻 About Me</h3>
         <ul>
-          <li>🤓 Just a Newbie</li>
-          <li>🎓 Currently studying <b>Informatics</b> and continuously exploring software engineering.</li>
-          <li>💻 Actively building with <b>Python, PHP, HTML/CSS</b>.</li>
-          <li>🎮 Passionate about visual interfaces and game development using the <b>Godot</b> engine.</li>
-          <li>🐧 Daily coding on <b>CachyOS</b> with <b>VS Code</b> & <b>PyCharm</b>, optimizing workflows with <b>GitHub Copilot</b>.</li>
+          <li>📍 Informatics student from Surabaya, constantly grinding EXP in software engineering.</li>
+          <li>💻 Crafting web and mobile experiences using <b>Python, PHP, HTML/CSS</b>, and <b>Flutter</b>.</li>
+          <li>🎮 Passionate about UI/UX and bringing ideas to life through game development with <b>Godot</b>.</li>
+          <li>☁️ Expanding my skill tree through cloud quests and algorithm puzzles on <b>HackerRank</b>.</li>
+          <li>🐧 <b>Command Center:</b> Daily coding on <b>CachyOS</b>, dual-wielding <b>VS Code</b> & <b>PyCharm</b>, with <b>GitHub Copilot</b> as my AI party member.</li>
         </ul>
       </td>
       <td width="40%" align="center">
