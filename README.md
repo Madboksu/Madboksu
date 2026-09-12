@@ -104,12 +104,14 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madboksu&layout=compact&bg_color=0d1117&title_color=FADB02&text_color=ffffff&border_color=30363d&hide_border=false" alt="Top Languages" />
 </p>
 
+<!-- Get to Know Me: Direct Socials -->
+<h3 align="center">🌐 Get to Know Me</h3>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madboksu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madboksu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/crlsbrm/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FADB02&logoWidth=30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/crlsbrm">
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=FADB02&logoWidth=30" alt="Instagram" />
+  </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madboksu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<br>
