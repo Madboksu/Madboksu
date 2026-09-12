@@ -77,6 +77,7 @@
 
 <br>
 
+<!-- Tech Stack -->
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -84,31 +85,23 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-
-</br>
-<!-- Get to Know Me: Direct Socials -->
-<h3 align="center">🌐 Get to Know Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/crlsbrm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mahesworo_brambang/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<!-- GitHub Activity & Snake Game -->
+<!-- GitHub Activity & Stats (Tema Dark Mode GitHub / Hitam Polos) -->
 <h3 align="center">📊 GitHub Activity & Snake Game</h3>
 
 <p align="center">
-  <!-- Animasi Ular GitHub dengan Tema Kuning/Persona Style -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madboksu/Madboksu/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madboksu/Madboksu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madboksu/Madboksu/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Madboksu/Madboksu/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Madboksu/Madboksu/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madboksu&show_icons=true&bg_color=0d1117&title_color=FADB02&text_color=ffffff&icon_color=FADB02&border_color=30363d&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madboksu&background=0d1117&border=30363d&stroke=30363d&ring=FADB02&fire=FADB02&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FADB02&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madboksu&layout=compact&bg_color=0d1117&title_color=FADB02&text_color=ffffff&border_color=30363d&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
