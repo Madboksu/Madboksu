@@ -22,6 +22,6 @@
 
 **Statistik GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madboksu&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madboksu&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=gray" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madboksu&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madboksu&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=gray" alt="Top Languages" />
 </p>
