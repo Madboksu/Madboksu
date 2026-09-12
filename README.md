@@ -20,7 +20,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://share.google/5KYhBvykMHvkR1AvM" width="85%" alt="Persona 4 Pixel GIF" />
+        <img src="https://www.fightersgeneration.com/characters4/yu-narukami-a2.html" width="85%" alt="Persona 4 Pixel GIF" />
       </td>
     </tr>
   </table>
