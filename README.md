@@ -8,8 +8,8 @@
       <td width="60%" valign="top">
         <h3>👨‍💻 About Me</h3>
         <ul>
-          <li>📍 Informatics student from Surabaya, constantly grinding EXP in software engineering.</li>
-          <li>💻 Crafting web and mobile experiences using <b>Python, PHP, HTML/CSS</b>, and <b>Flutter</b>.</li>
+          <li>📍 Informatics student from Surabaya, constantly grinding EXP in game development.</li>
+          <li>💻 Crafting web and game developmemt using <b>Python, PHP, HTML/CSS</b>, and <b>GdScript</b>.</li>
           <li>🎮 Passionate about UI/UX and bringing ideas to life through game development with <b>Godot</b>.</li>
           <li>☁️ Expanding my skill tree through cloud quests and algorithm puzzles on <b>HackerRank</b>.</li>
           <li>🐧 <b>Command Center:</b> Daily coding on <b>CachyOS</b>, dual-wielding <b>VS Code</b> & <b>PyCharm</b>, with <b>GitHub Copilot</b> as my AI party member.</li>
